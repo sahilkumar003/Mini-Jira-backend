@@ -64,4 +64,4 @@ Contributions to Issue Tracker System are welcome! If you find any issues or hav
 
 ## **License**
 
-This project is licensed under the **Techlyticaly.**
+This project is licensed under the **Sahil kumar.**
